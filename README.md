@@ -51,7 +51,7 @@ cd ai-agent-task
 **Windows (PowerShell):**
 ```powershell
 python -m venv .venv
-.\.venv\Scriptsctivate
+ .\.venv\Scripts\Activate.ps1
 ```
 
 **macOS / Linux:**
@@ -126,6 +126,12 @@ Executive Summary: saved to report.md
 And a `report.md` file will contain a detailed AI-written analysis report in Markdown format.
 
 ---
+
+### 4. Run pytest integration tests
+```powershell
+pytest -v tests/
+```
+
 
 ## Development Notes
 
