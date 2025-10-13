@@ -8,7 +8,7 @@ It consists of two FastAPI services (Task API and AI Test Agent) and a demo scri
 ## Folder Structure
 
 ```
-task-ai/
+ai-agent-task/
 ├── agent/
 │   └── ai_test_agent.py        # AI Test Agent – generates, executes, and analyzes test cases via OpenAI API
 ├── api/
