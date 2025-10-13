@@ -42,8 +42,8 @@ Default ports:
 ### 1. Clone and navigate to the project folder
 
 ```bash
-git clone https://github.com/your-repo/task-ai-tester.git
-cd task-ai-tester
+git clone https://github.com/milanmmaximovic/ai-agent-task.git
+cd ai-agent-task
 ```
 
 ### 2. Create and activate a virtual environment
