@@ -1,0 +1,11 @@
+# --- Core backend (FastAPI + Uvicorn) ---
+fastapi==0.115.2
+uvicorn==0.32.0
+
+# --- HTTP requests & utilities ---
+requests==2.32.3
+
+# --- Testing ---
+pytest==8.4.2
+anyio==4.11.0
+
